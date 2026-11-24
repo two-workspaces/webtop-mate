@@ -1,4 +1,4 @@
-FROM linuxserver/webtop:ubuntu-mate-83bb1a77-ls294
+FROM linuxserver/webtop:ubuntu-mate-b82a6017-ls296
 
 # Upstream starts Xvfb with a 15360x8640 screen, which pins ~600 MB for the
 # framebuffer alone and OOM-kills the desktop on Railway's 512 MB Trial plan.
